@@ -1,12 +1,12 @@
 # Maintainer: Cedric Girard <girard.cedric@gmail.com>
 pkgname=xmobar-git
-pkgver=20101222
-pkgrel=2
+pkgver=20110128
+pkgrel=1
 pkgdesc="A minimal status bar for the XMonad Window Manager"
 arch=('i686' 'x86_64')
 url="http://projects.haskell.org/xmobar/"
 license=('custom:BSD3')
-makedepends=('ghc>=6.12' 'haskell-x11-xft' 'haskell-stm' 'haskell-parsec' 'haskell-utf8-string' 'haskell-libmpd' 'haskell-hinotify' 'wireless_tools' 'git')
+makedepends=('ghc>=6.12' 'haskell-x11-xft' 'haskell-stm' 'haskell-parsec' 'haskell-utf8-string' 'haskell-libmpd' 'haskell-hinotify' 'wireless_tools' 'git' 'haskell-alsa-mixer')
 depends=('wireless_tools' 'gmp' 'libxinerama' 'libxft')
 conflicts=('xmobar' 'xmobar-darcs')
 install=
