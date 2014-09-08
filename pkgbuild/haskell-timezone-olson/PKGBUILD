@@ -3,7 +3,7 @@
 _hkgname=timezone-olson
 pkgname=haskell-timezone-olson
 pkgver=0.1.4
-pkgrel=1
+pkgrel=2
 pkgdesc="A pure Haskell parser and renderer for binary Olson timezone files"
 url="http://hackage.haskell.org/package/${_hkgname}"
 license=('custom:BSD3')
@@ -11,9 +11,9 @@ arch=('i686' 'x86_64')
 makedepends=()
 depends=('ghc'
          'haskell-binary<0.8'
-         'haskell-bytestring=0.10.0.2'
+         'haskell-bytestring=0.10.4.0'
          'haskell-extensible-exceptions=0.1.1.4'
-         'haskell-time=1.4.0.1'
+         'haskell-time=1.4.2'
          'haskell-timezone-series<0.2')
 options=('strip' 'staticlibs')
 source=(http://hackage.haskell.org/packages/archive/${_hkgname}/${pkgver}/${_hkgname}-${pkgver}.tar.gz)
