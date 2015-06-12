@@ -22,3 +22,7 @@
 	path = pkgbuild/gscanbus
 	url = https://aur@aur4.archlinux.org/gscanbus.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/gscanbus.git
+[submodule "pkgbuild/ledmon"]
+	path = pkgbuild/ledmon
+	url = https://aur@aur4.archlinux.org/ledmon.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/ledmon.git
