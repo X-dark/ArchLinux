@@ -2,3 +2,7 @@
 	path = pkgbuild/perl-zabbix2-api
 	url = https://aur@aur4.archlinux.org/perl-zabbix2-api.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/perl-zabbix2-api.git
+[submodule "pkgbuild/autojump-git"]
+	path = pkgbuild/autojump-git
+	url = https://aur@aur4.archlinux.org/autojump-git.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/autojump-git.git
