@@ -6,3 +6,7 @@
 	path = pkgbuild/autojump-git
 	url = https://aur@aur4.archlinux.org/autojump-git.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/autojump-git.git
+[submodule "pkgbuild/cpp-alsa-volume"]
+	path = pkgbuild/cpp-alsa-volume
+	url = https://aur@aur4.archlinux.org/cpp-alsa-volume.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/cpp-alsa-volume.git
