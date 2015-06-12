@@ -26,3 +26,7 @@
 	path = pkgbuild/ledmon
 	url = https://aur@aur4.archlinux.org/ledmon.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/ledmon.git
+[submodule "pkgbuild/libcec-git"]
+	path = pkgbuild/libcec-git
+	url = https://aur@aur4.archlinux.org/libcec-git.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/libcec-git.git
