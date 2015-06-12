@@ -30,3 +30,7 @@
 	path = pkgbuild/libcec-git
 	url = https://aur@aur4.archlinux.org/libcec-git.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/libcec-git.git
+[submodule "pkgbuild/unarchiver"]
+	path = pkgbuild/unarchiver
+	url = https://aur@aur4.archlinux.org/unarchiver.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/unarchiver.git
