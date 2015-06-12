@@ -34,3 +34,7 @@
 	path = pkgbuild/unarchiver
 	url = https://aur@aur4.archlinux.org/unarchiver.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/unarchiver.git
+[submodule "pkgbuild/mmv"]
+	path = pkgbuild/mmv
+	url = https://aur@aur4.archlinux.org/mmv.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/mmv.git
