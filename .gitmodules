@@ -14,3 +14,7 @@
 	path = pkgbuild/gmpc-plugins
 	url = https://aur@aur4.archlinux.org/gmpc-plugins.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/gmpc-plugins.git
+[submodule "pkgbuild/cacti-spine"]
+	path = pkgbuild/cacti-spine
+	url = https://aur@aur4.archlinux.org/cacti-spine.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/cacti-spine.git
