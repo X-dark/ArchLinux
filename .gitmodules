@@ -10,3 +10,7 @@
 	path = pkgbuild/cpp-alsa-volume
 	url = https://aur@aur4.archlinux.org/cpp-alsa-volume.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/cpp-alsa-volume.git
+[submodule "pkgbuild/gmpc-plugins"]
+	path = pkgbuild/gmpc-plugins
+	url = https://aur@aur4.archlinux.org/gmpc-plugins.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/gmpc-plugins.git
