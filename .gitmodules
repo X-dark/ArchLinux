@@ -1,0 +1,4 @@
+[submodule "pkgbuild/perl-zabbix2-api"]
+	path = pkgbuild/perl-zabbix2-api
+	url = https://aur@aur4.archlinux.org/perl-zabbix2-api.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-zabbix2-api.git
