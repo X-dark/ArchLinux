@@ -18,3 +18,7 @@
 	path = pkgbuild/cacti-spine
 	url = https://aur@aur4.archlinux.org/cacti-spine.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/cacti-spine.git
+[submodule "pkgbuild/gscanbus"]
+	path = pkgbuild/gscanbus
+	url = https://aur@aur4.archlinux.org/gscanbus.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/gscanbus.git
