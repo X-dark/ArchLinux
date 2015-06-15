@@ -46,3 +46,7 @@
 	path = pkgbuild/libplatform-git
 	url = https://aur@aur4.archlinux.org/libplatform-git.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/libplatform-git.git
+[submodule "pkgbuild/nbimg"]
+	path = pkgbuild/nbimg
+	url = https://aur@aur4.archlinux.org/nbimg.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/nbimg.git
