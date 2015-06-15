@@ -54,3 +54,53 @@
 	path = pkgbuild/openshot-bzr
 	url = https://aur@aur4.archlinux.org/openshot-bzr.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/openshot-bzr.git
+[submodule "pkgbuild/perl-config-properties"]
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-config-properties.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-config-properties.git
+	path = pkgbuild/perl-config-properties
+	url = https://aur@aur4.archlinux.org/perl-config-properties.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-config-properties.git
+[submodule "pkgbuild/perl-dbd-csv"]
+	path = pkgbuild/perl-dbd-csv
+	url = https://aur@aur4.archlinux.org/perl-dbd-csv.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-dbd-csv.git
+[submodule "pkgbuild/perl-kwalify"]
+	path = pkgbuild/perl-kwalify
+	url = https://aur@aur4.archlinux.org/perl-kwalify.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-kwalify.git
+[submodule "pkgbuild/perl-net-ip-xs"]
+	path = pkgbuild/perl-net-ip-xs
+	url = https://aur@aur4.archlinux.org/perl-net-ip-xs.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-net-ip-xs.git
+[submodule "pkgbuild/perl-rpsl-parser"]
+	path = pkgbuild/perl-rpsl-parser
+	url = https://aur@aur4.archlinux.org/perl-rpsl-parser.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-rpsl-parser.git
+[submodule "pkgbuild/perl-rrd-editor"]
+	path = pkgbuild/perl-rrd-editor
+	url = https://aur@aur4.archlinux.org/perl-rrd-editor.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-rrd-editor.git
+[submodule "pkgbuild/perl-servicenow-soap"]
+	path = pkgbuild/perl-servicenow-soap
+	url = https://aur@aur4.archlinux.org/perl-servicenow-soap.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-servicenow-soap.git
+[submodule "pkgbuild/perl-sql-statement"]
+	path = pkgbuild/perl-sql-statement
+	url = https://aur@aur4.archlinux.org/perl-sql-statement.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-sql-statement.git
+[submodule "pkgbuild/perl-tie-hash-sorted"]
+	path = pkgbuild/perl-tie-hash-sorted
+	url = https://aur@aur4.archlinux.org/perl-tie-hash-sorted.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/perl-tie-hash-sorted.git
+[submodule "pkgbuild/python2-requests-git"]
+	path = pkgbuild/python2-requests-git
+	url = https://aur@aur4.archlinux.org/python2-requests-git.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/python2-requests-git.git
+[submodule "pkgbuild/rxp"]
+	path = pkgbuild/rxp
+	url = https://aur@aur4.archlinux.org/rxp.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/rxp.git
+[submodule "pkgbuild/snmpsim"]
+	path = pkgbuild/snmpsim
+	url = https://aur@aur4.archlinux.org/snmpsim.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/snmpsim.git
