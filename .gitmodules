@@ -38,3 +38,7 @@
 	path = pkgbuild/mmv
 	url = https://aur@aur4.archlinux.org/mmv.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/mmv.git
+[submodule "pkgbuild/thunderbird-nightly"]
+	path = pkgbuild/thunderbird-nightly
+	url = https://aur@aur4.archlinux.org/thunderbird-nightly.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/thunderbird-nightly.git
