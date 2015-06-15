@@ -50,3 +50,7 @@
 	path = pkgbuild/nbimg
 	url = https://aur@aur4.archlinux.org/nbimg.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/nbimg.git
+[submodule "pkgbuild/openshot-bzr"]
+	path = pkgbuild/openshot-bzr
+	url = https://aur@aur4.archlinux.org/openshot-bzr.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/openshot-bzr.git
