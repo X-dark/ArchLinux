@@ -42,3 +42,7 @@
 	path = pkgbuild/thunderbird-nightly
 	url = https://aur@aur4.archlinux.org/thunderbird-nightly.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/thunderbird-nightly.git
+[submodule "pkgbuild/libplatform-git"]
+	path = pkgbuild/libplatform-git
+	url = https://aur@aur4.archlinux.org/libplatform-git.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/libplatform-git.git
