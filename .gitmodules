@@ -104,3 +104,7 @@
 	path = pkgbuild/snmpsim
 	url = https://aur@aur4.archlinux.org/snmpsim.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/snmpsim.git
+[submodule "pkgbuild/libplatform"]
+	path = pkgbuild/libplatform
+	url = https://aur@aur4.archlinux.org/libplatform.git
+	pushurl = ssh+git://aur@aur4.archlinux.org/libplatform.git
