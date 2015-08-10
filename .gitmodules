@@ -108,3 +108,6 @@
 	path = pkgbuild/libplatform
 	url = https://aur@aur4.archlinux.org/libplatform.git
 	pushurl = ssh+git://aur@aur4.archlinux.org/libplatform.git
+[submodule "pkgbuild/flexget-git"]
+	path = pkgbuild/flexget-git
+	url = ssh://aur@aur.archlinux.org/flexget-git.git
