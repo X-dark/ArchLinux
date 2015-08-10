@@ -111,3 +111,6 @@
 [submodule "pkgbuild/flexget-git"]
 	path = pkgbuild/flexget-git
 	url = ssh://aur@aur.archlinux.org/flexget-git.git
+[submodule "pkgbuild/makemkv-libaacs"]
+	path = pkgbuild/makemkv-libaacs
+	url = ssh://aur@aur.archlinux.org/makemkv-libaacs.git
