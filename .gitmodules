@@ -114,3 +114,6 @@
 [submodule "pkgbuild/makemkv-libaacs"]
 	path = pkgbuild/makemkv-libaacs
 	url = ssh://aur@aur.archlinux.org/makemkv-libaacs.git
+[submodule "pkgbuild/libcrossguid-git"]
+	path = pkgbuild/libcrossguid-git
+	url = ssh://aur@aur.archlinux.org/libcrossguid-git.git
