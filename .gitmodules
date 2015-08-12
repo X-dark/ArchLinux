@@ -1,119 +1,122 @@
 [submodule "pkgbuild/perl-zabbix2-api"]
 	path = pkgbuild/perl-zabbix2-api
-	url = https://aur@aur4.archlinux.org/perl-zabbix2-api.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-zabbix2-api.git
+	url = https://aur@aur.archlinux.org/perl-zabbix2-api.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-zabbix2-api.git
 [submodule "pkgbuild/autojump-git"]
 	path = pkgbuild/autojump-git
-	url = https://aur@aur4.archlinux.org/autojump-git.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/autojump-git.git
+	url = https://aur@aur.archlinux.org/autojump-git.git
+	pushurl = ssh+git://aur@aur.archlinux.org/autojump-git.git
 [submodule "pkgbuild/cpp-alsa-volume"]
 	path = pkgbuild/cpp-alsa-volume
-	url = https://aur@aur4.archlinux.org/cpp-alsa-volume.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/cpp-alsa-volume.git
+	url = https://aur@aur.archlinux.org/cpp-alsa-volume.git
+	pushurl = ssh+git://aur@aur.archlinux.org/cpp-alsa-volume.git
 [submodule "pkgbuild/gmpc-plugins"]
 	path = pkgbuild/gmpc-plugins
-	url = https://aur@aur4.archlinux.org/gmpc-plugins.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/gmpc-plugins.git
+	url = https://aur@aur.archlinux.org/gmpc-plugins.git
+	pushurl = ssh+git://aur@aur.archlinux.org/gmpc-plugins.git
 [submodule "pkgbuild/cacti-spine"]
 	path = pkgbuild/cacti-spine
-	url = https://aur@aur4.archlinux.org/cacti-spine.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/cacti-spine.git
+	url = https://aur@aur.archlinux.org/cacti-spine.git
+	pushurl = ssh+git://aur@aur.archlinux.org/cacti-spine.git
 [submodule "pkgbuild/gscanbus"]
 	path = pkgbuild/gscanbus
-	url = https://aur@aur4.archlinux.org/gscanbus.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/gscanbus.git
+	url = https://aur@aur.archlinux.org/gscanbus.git
+	pushurl = ssh+git://aur@aur.archlinux.org/gscanbus.git
 [submodule "pkgbuild/ledmon"]
 	path = pkgbuild/ledmon
-	url = https://aur@aur4.archlinux.org/ledmon.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/ledmon.git
+	url = https://aur@aur.archlinux.org/ledmon.git
+	pushurl = ssh+git://aur@aur.archlinux.org/ledmon.git
 [submodule "pkgbuild/libcec-git"]
 	path = pkgbuild/libcec-git
-	url = https://aur@aur4.archlinux.org/libcec-git.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/libcec-git.git
+	url = https://aur@aur.archlinux.org/libcec-git.git
+	pushurl = ssh+git://aur@aur.archlinux.org/libcec-git.git
 [submodule "pkgbuild/unarchiver"]
 	path = pkgbuild/unarchiver
-	url = https://aur@aur4.archlinux.org/unarchiver.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/unarchiver.git
+	url = https://aur@aur.archlinux.org/unarchiver.git
+	pushurl = ssh+git://aur@aur.archlinux.org/unarchiver.git
 [submodule "pkgbuild/mmv"]
 	path = pkgbuild/mmv
-	url = https://aur@aur4.archlinux.org/mmv.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/mmv.git
+	url = https://aur@aur.archlinux.org/mmv.git
+	pushurl = ssh+git://aur@aur.archlinux.org/mmv.git
 [submodule "pkgbuild/thunderbird-nightly"]
 	path = pkgbuild/thunderbird-nightly
-	url = https://aur@aur4.archlinux.org/thunderbird-nightly.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/thunderbird-nightly.git
+	url = https://aur@aur.archlinux.org/thunderbird-nightly.git
+	pushurl = ssh+git://aur@aur.archlinux.org/thunderbird-nightly.git
 [submodule "pkgbuild/libplatform-git"]
 	path = pkgbuild/libplatform-git
-	url = https://aur@aur4.archlinux.org/libplatform-git.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/libplatform-git.git
+	url = https://aur@aur.archlinux.org/libplatform-git.git
+	pushurl = ssh+git://aur@aur.archlinux.org/libplatform-git.git
 [submodule "pkgbuild/nbimg"]
 	path = pkgbuild/nbimg
-	url = https://aur@aur4.archlinux.org/nbimg.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/nbimg.git
+	url = https://aur@aur.archlinux.org/nbimg.git
+	pushurl = ssh+git://aur@aur.archlinux.org/nbimg.git
 [submodule "pkgbuild/openshot-bzr"]
 	path = pkgbuild/openshot-bzr
-	url = https://aur@aur4.archlinux.org/openshot-bzr.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/openshot-bzr.git
+	url = https://aur@aur.archlinux.org/openshot-bzr.git
+	pushurl = ssh+git://aur@aur.archlinux.org/openshot-bzr.git
 [submodule "pkgbuild/perl-config-properties"]
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-config-properties.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-config-properties.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-config-properties.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-config-properties.git
 	path = pkgbuild/perl-config-properties
-	url = https://aur@aur4.archlinux.org/perl-config-properties.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-config-properties.git
+	url = https://aur@aur.archlinux.org/perl-config-properties.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-config-properties.git
 [submodule "pkgbuild/perl-dbd-csv"]
 	path = pkgbuild/perl-dbd-csv
-	url = https://aur@aur4.archlinux.org/perl-dbd-csv.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-dbd-csv.git
+	url = https://aur@aur.archlinux.org/perl-dbd-csv.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-dbd-csv.git
 [submodule "pkgbuild/perl-kwalify"]
 	path = pkgbuild/perl-kwalify
-	url = https://aur@aur4.archlinux.org/perl-kwalify.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-kwalify.git
+	url = https://aur@aur.archlinux.org/perl-kwalify.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-kwalify.git
 [submodule "pkgbuild/perl-net-ip-xs"]
 	path = pkgbuild/perl-net-ip-xs
-	url = https://aur@aur4.archlinux.org/perl-net-ip-xs.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-net-ip-xs.git
+	url = https://aur@aur.archlinux.org/perl-net-ip-xs.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-net-ip-xs.git
 [submodule "pkgbuild/perl-rpsl-parser"]
 	path = pkgbuild/perl-rpsl-parser
-	url = https://aur@aur4.archlinux.org/perl-rpsl-parser.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-rpsl-parser.git
+	url = https://aur@aur.archlinux.org/perl-rpsl-parser.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-rpsl-parser.git
 [submodule "pkgbuild/perl-rrd-editor"]
 	path = pkgbuild/perl-rrd-editor
-	url = https://aur@aur4.archlinux.org/perl-rrd-editor.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-rrd-editor.git
+	url = https://aur@aur.archlinux.org/perl-rrd-editor.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-rrd-editor.git
 [submodule "pkgbuild/perl-servicenow-soap"]
 	path = pkgbuild/perl-servicenow-soap
-	url = https://aur@aur4.archlinux.org/perl-servicenow-soap.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-servicenow-soap.git
+	url = https://aur@aur.archlinux.org/perl-servicenow-soap.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-servicenow-soap.git
 [submodule "pkgbuild/perl-sql-statement"]
 	path = pkgbuild/perl-sql-statement
-	url = https://aur@aur4.archlinux.org/perl-sql-statement.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-sql-statement.git
+	url = https://aur@aur.archlinux.org/perl-sql-statement.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-sql-statement.git
 [submodule "pkgbuild/perl-tie-hash-sorted"]
 	path = pkgbuild/perl-tie-hash-sorted
-	url = https://aur@aur4.archlinux.org/perl-tie-hash-sorted.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/perl-tie-hash-sorted.git
+	url = https://aur@aur.archlinux.org/perl-tie-hash-sorted.git
+	pushurl = ssh+git://aur@aur.archlinux.org/perl-tie-hash-sorted.git
 [submodule "pkgbuild/python2-requests-git"]
 	path = pkgbuild/python2-requests-git
-	url = https://aur@aur4.archlinux.org/python2-requests-git.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/python2-requests-git.git
+	url = https://aur@aur.archlinux.org/python2-requests-git.git
+	pushurl = ssh+git://aur@aur.archlinux.org/python2-requests-git.git
 [submodule "pkgbuild/rxp"]
 	path = pkgbuild/rxp
-	url = https://aur@aur4.archlinux.org/rxp.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/rxp.git
+	url = https://aur@aur.archlinux.org/rxp.git
+	pushurl = ssh+git://aur@aur.archlinux.org/rxp.git
 [submodule "pkgbuild/snmpsim"]
 	path = pkgbuild/snmpsim
-	url = https://aur@aur4.archlinux.org/snmpsim.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/snmpsim.git
+	url = https://aur@aur.archlinux.org/snmpsim.git
+	pushurl = ssh+git://aur@aur.archlinux.org/snmpsim.git
 [submodule "pkgbuild/libplatform"]
 	path = pkgbuild/libplatform
-	url = https://aur@aur4.archlinux.org/libplatform.git
-	pushurl = ssh+git://aur@aur4.archlinux.org/libplatform.git
+	url = https://aur@aur.archlinux.org/libplatform.git
+	pushurl = ssh+git://aur@aur.archlinux.org/libplatform.git
 [submodule "pkgbuild/flexget-git"]
 	path = pkgbuild/flexget-git
-	url = ssh://aur@aur.archlinux.org/flexget-git.git
+	url = https://aur@aur.archlinux.org/flexget-git.git
+	pushurl = ssh+git://aur@aur.archlinux.org/flexget-git.git
 [submodule "pkgbuild/makemkv-libaacs"]
 	path = pkgbuild/makemkv-libaacs
-	url = ssh://aur@aur.archlinux.org/makemkv-libaacs.git
+	url = https://aur@aur.archlinux.org/makemkv-libaacs.git
+	pushurl = ssh+git://aur@aur.archlinux.org/makemkv-libaacs.git
 [submodule "pkgbuild/libcrossguid-git"]
 	path = pkgbuild/libcrossguid-git
-	url = ssh://aur@aur.archlinux.org/libcrossguid-git.git
+	url = https://aur@aur.archlinux.org/libcrossguid-git.git
+	pushurl = ssh+git://aur@aur.archlinux.org/libcrossguid-git.git
