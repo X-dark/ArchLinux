@@ -120,3 +120,39 @@
 	path = pkgbuild/libcrossguid-git
 	url = https://aur@aur.archlinux.org/libcrossguid-git.git
 	pushurl = ssh+git://aur@aur.archlinux.org/libcrossguid-git.git
+[submodule "pkgbuild/vim-indent-guides"]
+	path = pkgbuild/vim-indent-guides
+	url = ssh://aur@aur.archlinux.org/vim-indent-guides.git
+[submodule "pkgbuild/python2-rarfile"]
+	path = pkgbuild/python2-rarfile
+	url = ssh://aur@aur.archlinux.org/python2-rarfile.git
+[submodule "pkgbuild/stlarch_icons"]
+	path = pkgbuild/stlarch_icons
+	url = ssh://aur@aur.archlinux.org/stlarch_icons.git
+[submodule "pkgbuild/vim-logstash-git"]
+	path = pkgbuild/vim-logstash-git
+	url = ssh://aur@aur.archlinux.org/vim-logstash-git.git
+[submodule "pkgbuild/pbin-git"]
+	path = pkgbuild/pbin-git
+	url = ssh://aur@aur.archlinux.org/pbin-git.git
+[submodule "pkgbuild/python2-flask-compress"]
+	path = pkgbuild/python2-flask-compress
+	url = ssh://aur@aur.archlinux.org/python2-flask-compress.git
+[submodule "pkgbuild/python2-flask-restplus072"]
+	path = pkgbuild/python2-flask-restplus072
+	url = ssh://aur@aur.archlinux.org/python2-flask-restplus072.git
+[submodule "pkgbuild/python2-flask-restplus"]
+	path = pkgbuild/python2-flask-restplus
+	url = ssh://aur@aur.archlinux.org/python2-flask-restplus.git
+[submodule "pkgbuild/python2-ordereddict"]
+	path = pkgbuild/python2-ordereddict
+	url = ssh://aur@aur.archlinux.org/python2-ordereddict.git
+[submodule "pkgbuild/python2-libsass"]
+	path = pkgbuild/python2-libsass
+	url = ssh://aur@aur.archlinux.org/python2-libsass.git
+[submodule "pkgbuild/python2-flask-assets"]
+	path = pkgbuild/python2-flask-assets
+	url = ssh://aur@aur.archlinux.org/python2-flask-assets.git
+[submodule "pkgbuild/python2-pytvmaze"]
+	path = pkgbuild/python2-pytvmaze
+	url = ssh://aur@aur.archlinux.org/python2-pytvmaze.git
