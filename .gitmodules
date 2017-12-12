@@ -156,3 +156,15 @@
 [submodule "pkgbuild/python2-pytvmaze"]
 	path = pkgbuild/python2-pytvmaze
 	url = ssh://aur@aur.archlinux.org/python2-pytvmaze.git
+[submodule "pkgbuild/python2-guessit"]
+	path = pkgbuild/python2-guessit
+	url = ssh://aur@aur.archlinux.org/python2-guessit.git
+[submodule "pkgbuild/kodi-addon-inputstream-adaptive"]
+	path = pkgbuild/kodi-addon-inputstream-adaptive
+	url = ssh://aur@aur.archlinux.org/kodi-addon-inputstream-adaptive.git
+[submodule "pkgbuild/python2-first"]
+	path = pkgbuild/python2-first
+	url = ssh://aur@aur.archlinux.org/python2-first.git
+[submodule "pkgbuild/python-urwidtrees"]
+	path = pkgbuild/python-urwidtrees
+	url = ssh://aur@aur.archlinux.org/python-urwidtrees.git
